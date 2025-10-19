@@ -1,0 +1,6 @@
+.app {
+  background-color: rgb(107, 110, 68);
+  display: grid;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
